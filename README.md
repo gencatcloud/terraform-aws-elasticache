@@ -1,12 +1,12 @@
 # terraform-aws-elasticache
 
-[![Release](https://img.shields.io/github/release/traveloka/terraform-aws-modules-template.svg)](https://github.com/traveloka/terraform-aws-modules-template/releases)
-[![Last Commit](https://img.shields.io/github/last-commit/traveloka/terraform-aws-modules-template.svg)](https://github.com/traveloka/terraform-aws-modules-template/commits/master)
+[![Release](https://img.shields.io/github/release/gencatcloud/terraform-aws-modules-template.svg)](https://github.com/gencatcloud/terraform-aws-modules-template/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/gencatcloud/terraform-aws-modules-template.svg)](https://github.com/gencatcloud/terraform-aws-modules-template/commits/master)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 
 ## Description
 
-Terraform module to create AWS ElastiCache cluster for Memcached engine.
+Terraform module to create AWS ElastiCache cluster for Memcached/Redis engines.
 
 ## Table of Content
 
@@ -84,8 +84,8 @@ Created and tested using Terraform version `0.12.x`
 
 ## Contributing
 
-This module accepting or open for any contributions from anyone, please see the [CONTRIBUTING.md](https://github.com/marcperemiquel/terraform-aws-elasticache/blob/master/CONTRIBUTING.md) for more detail about how to contribute to this module.
+This module accepting or open for any contributions from anyone, please see the [CONTRIBUTING.md](https://github.com/gencatcloud/terraform-aws-elasticache/blob/master/CONTRIBUTING.md) for more detail about how to contribute to this module.
 
 ## License
 
-This module is under Apache License 2.0 - see the [LICENSE](https://github.com/marcperemiquel/terraform-aws-elasticache/blob/master/LICENSE) file for details.
+This module is under Apache License 2.0 - see the [LICENSE](https://github.com/gencatcloud/terraform-aws-elasticache/blob/master/LICENSE) file for details.
